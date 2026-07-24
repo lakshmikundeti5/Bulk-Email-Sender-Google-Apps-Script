@@ -21,7 +21,7 @@ This project helps you send personalized emails to multiple recipients without m
 ## 🛠️ Technologies Used
 
 - Google Apps Script
-- JavaScript
+- JavaScript (the code i gave)
 - Gmail Service
 - Google Drive
 
